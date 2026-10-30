@@ -1,0 +1,7 @@
+{
+  "name": "SpecCraft AI",
+  "description": "Prompt Engineering-Based Requirements-to-Test-Case Generation and Evaluation Platform with Ollama comparison laboratory, measurable metrics engine, and test explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
